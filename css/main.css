@@ -1,7 +1,7 @@
 /* Globální nastavení pro celý dokument */
 body {
     font-family: Arial, Helvetica, sans-serif; /* Výchozí písmo: Arial s fallbackem na Helvetica a bezpatkové písmo */
-    background-image: url("../img/background.jpg"); /* Obrázek pozadí pro celý dokument */
+    background-image: url("../img/pohul.jpg"); /* Obrázek pozadí pro celý dokument */
     background-repeat: no-repeat; /* Pozadí se nebude opakovat */
     background-size: cover; /* Pozadí pokryje celou plochu, může oříznout části obrázku */
 }
